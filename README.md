@@ -27,6 +27,15 @@ This repo contains learning and development of Full Stack journey.
     - **Large Standard Library:** C# has a vast standard library that includes a wide range of pre-built classes and functions, making it easy to perform common          tasks without writing a lot of custom code.
     - **Integration with Microsoft Technologies:** C# integrates well with other Microsoft technologies, such as .NET, Azure, and Visual Studio, providing a             seamless development experience.
     - **Community Support:** C# has a large and active community, which means there are plenty of resources, tools, and libraries available to help developers.
+    - **Modern Features:** Supports LINQ, asynchronous programming (async and await), pattern matching, and more.
+    - **Exception Handling:** Provides robust error handling with try, catch, finally, and throw statements.
+    - **Security:** Strong security features with managed code execution and access control mechanisms.
+    - **Rich Standard Library:** Comes with an extensive set of libraries for various functionalities.
+    - **Multi-threading and Parallelism:** Supports concurrent execution using Thread, Task, and Parallel programming.
+    - **Language Integrated Query (LINQ):** Provides a powerful querying capability for collections, databases, and XML.
+    - **Event-Driven Programming:** Supports event handling through delegates and event handlers.
+    - **Strongly Typed:** Type safety helps prevent runtime errors by enforcing strict data types.
+    -  **Automatic Memory Management:** The built-in garbage collector manages memory automatically.
 
     ### **Applications of C#**
     C# is used in various domains, including:
