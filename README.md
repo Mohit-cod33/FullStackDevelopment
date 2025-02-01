@@ -83,80 +83,80 @@ This repo contains learning and development of Full Stack journey.
      **C# Data Types:**
       C# provides various data types that can be categorized into **Value Types** and **Reference Types**.
    ## 1. **Value Types:**
-   Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created.
-    ### **Numeric Types**
+     Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created.
+      ### **Numeric Types**
 
-    | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|
-    | `byte`      | 8-bit unsigned integer                                            | 0 to 255                                                     | `byte b = 255;`                                                 |
-    | `sbyte`     | 8-bit signed integer                                              | -128 to 127                                                   | `sbyte sb = -100;`                                               |
-    | `short`     | 16-bit signed integer                                             | -32,768 to 32,767                                             | `short s = 32767;`                                               |
-    | `ushort`    | 16-bit unsigned integer                                           | 0 to 65,535                                                   | `ushort us = 50000;`                                             |
-    | `int`       | 32-bit signed integer                                             | -2,147,483,648 to 2,147,483,647                               | `int i = 2147483647;`                                            |
-    | `uint`      | 32-bit unsigned integer                                           | 0 to 4,294,967,295                                            | `uint ui = 4000000000;`                                          |
-    | `long`      | 64-bit signed integer                                             | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807       | `long l = 9223372036854775807L;`                                 |
-    | `ulong`     | 64-bit unsigned integer                                           | 0 to 18,446,744,073,709,551,615                              | `ulong ul = 18446744073709551615UL;`                             |
-    | `float`     | 32-bit single-precision floating-point number                     | ±1.5 × 10^−45 to ±3.4 × 10^38 (7 digits of precision)        | `float f = 3.14f;`                                               |
-    | `double`    | 64-bit double-precision floating-point number                     | ±5.0 × 10^−324 to ±1.7 × 10^308 (15–16 digits of precision)  | `double d = 3.14159265358979;`                                    |
-    | `decimal`   | 128-bit precise decimal value for financial calculations          | ±1.0 × 10^−28 to ±7.9 × 10^28 (28-29 digits of precision)    | `decimal dec = 19.99m;`                                           |
+      | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|
+      | `byte`      | 8-bit unsigned integer                                            | 0 to 255                                                     | `byte b = 255;`                                                 |
+      | `sbyte`     | 8-bit signed integer                                              | -128 to 127                                                   | `sbyte sb = -100;`                                               |
+      | `short`     | 16-bit signed integer                                             | -32,768 to 32,767                                             | `short s = 32767;`                                               |
+      | `ushort`    | 16-bit unsigned integer                                           | 0 to 65,535                                                   | `ushort us = 50000;`                                             |
+      | `int`       | 32-bit signed integer                                             | -2,147,483,648 to 2,147,483,647                               | `int i = 2147483647;`                                            |
+      | `uint`      | 32-bit unsigned integer                                           | 0 to 4,294,967,295                                            | `uint ui = 4000000000;`                                          |
+      | `long`      | 64-bit signed integer                                             | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807       | `long l = 9223372036854775807L;`                                 |
+      | `ulong`     | 64-bit unsigned integer                                           | 0 to 18,446,744,073,709,551,615                              | `ulong ul = 18446744073709551615UL;`                             |
+      | `float`     | 32-bit single-precision floating-point number                     | ±1.5 × 10^−45 to ±3.4 × 10^38 (7 digits of precision)        | `float f = 3.14f;`                                               |
+      | `double`    | 64-bit double-precision floating-point number                     | ±5.0 × 10^−324 to ±1.7 × 10^308 (15–16 digits of precision)  | `double d = 3.14159265358979;`                                    |
+      | `decimal`   | 128-bit precise decimal value for financial calculations          | ±1.0 × 10^−28 to ±7.9 × 10^28 (28-29 digits of precision)    | `decimal dec = 19.99m;`                                           |
 
-    ### Boolean Type
+      ### Boolean Type
 
-    | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|
-    | `bool`      | Represents `true` or `false`                                      | `true`, `false`                                              | `bool isActive = true;`                                           |
+      | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|
+      | `bool`      | Represents `true` or `false`                                      | `true`, `false`                                              | `bool isActive = true;`                                           |
 
-    ### Character Type
+      ### Character Type
 
-    | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|
-    | `char`      | Represents a single 16-bit Unicode character                      | 0 to 65,535                                                   | `char letter = 'A';`                                             |
+      | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------|
+      | `char`      | Represents a single 16-bit Unicode character                      | 0 to 65,535                                                   | `char letter = 'A';`                                             |
 
-    ### Struct Types
-    Structs are user-defined value types that can contain data and methods. Example: `DateTime`, `Guid`
+      ### Struct Types
+      Structs are user-defined value types that can contain data and methods. Example: `DateTime`, `Guid`
 
-    | **Type**    | **Description**                                                   | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-    | `struct`    | User-defined value type that can hold data and methods.           | `struct Point { public int X; public int Y; }`                  |
+      | **Type**    | **Description**                                                   | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+      | `struct`    | User-defined value type that can hold data and methods.           | `struct Point { public int X; public int Y; }`                  |
 
-    ### Enumeration Types
-    Enums are used to define a set of named integral constants.
+      ### Enumeration Types
+      Enums are used to define a set of named integral constants.
 
-    | **Type**    | **Description**                                                   | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-    | `enum`      | A set of named integral constants. Example:                       | ```csharp                                                      |
-    |             |                                                                   | enum Day { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday }; |
-    |             |                                                                   | ```                                                             |
+      | **Type**    | **Description**                                                   | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+      | `enum`      | A set of named integral constants. Example:                       | ```csharp                                                      |
+      |             |                                                                   | enum Day { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday }; |
+      |             |                                                                   | ```                                                             |
 
     ## 2. Reference Types
     Reference types store references to the data, and the data itself is stored in a different memory location. When a reference type is assigned to another,         they both point to the same object.
 
-    ### String
+      ### String
 
-    | **Type**    | **Description**                                                   | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-    | `string`    | Represents a sequence of Unicode characters (immutable).         | `string name = "John Doe";`                                      |
+      | **Type**    | **Description**                                                   | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+      | `string`    | Represents a sequence of Unicode characters (immutable).         | `string name = "John Doe";`                                      |
 
-    ### Object
+      ### Object
 
-    | **Type**    | **Description**                                                   | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-    | `object`    | The base type of all data types in C#. It can hold any data type. | `object obj = 42;`                                              |
+      | **Type**    | **Description**                                                   | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+      | `object`    | The base type of all data types in C#. It can hold any data type. | `object obj = 42;`                                              |
 
-    ### Arrays
+        ### Arrays
 
-    | **Type**    | **Description**                                                   | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-    | `array`     | A collection of elements of the same type.                        | `int[] numbers = {1, 2, 3, 4};`                                  |
+      | **Type**    | **Description**                                                   | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+      | `array`     | A collection of elements of the same type.                        | `int[] numbers = {1, 2, 3, 4};`                                  |
 
-    ### Class
+      ### Class
 
-    | **Type**    | **Description**                                                   | **Example**                                                      |
-    |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-    | `class`     | A user-defined reference type. Example:                           | ```csharp                                                        |
-    |              |                                                                   |   class Person {                                                 |   
-    |             |                                                                    |      public string Name { get; set; }                            |    
-    |             |                                                                    |    public int Age { get; set; }                                  |   
+      | **Type**    | **Description**                                                   | **Example**                                                      |
+      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+      | `class`     | A user-defined reference type. Example:                           | ```csharp                                                        |
+      |              |                                                                   |   class Person {                                                 |   
+      |             |                                                                    |      public string Name { get; set; }                            |    
+      |             |                                                                    |    public int Age { get; set; }                                  |   
                                                                                       |   }```                                                            |     
                                                                                                                                                   
 
