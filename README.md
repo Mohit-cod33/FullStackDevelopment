@@ -128,30 +128,30 @@ This repo contains learning and development of Full Stack journey.
     |             |                                                                   | enum Day { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday }; |
     |             |                                                                   | ```                                                             |
 
-    ## 2. Reference Types
+  ## 2. Reference Types
     Reference types store references to the data, and the data itself is stored in a different memory location. When a reference type is assigned to another,         they both point to the same object.
 
-      ### String
+  ### String
 
-      | **Type**    | **Description**                                                   | **Example**                                                      |
+  | **Type**    | **Description**                                                   | **Example**                                                      |
       |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
       | `string`    | Represents a sequence of Unicode characters (immutable).         | `string name = "John Doe";`                                      |
 
-      ### Object
+  ### Object
 
-      | **Type**    | **Description**                                                   | **Example**                                                      |
+  | **Type**    | **Description**                                                   | **Example**                                                      |
       |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
       | `object`    | The base type of all data types in C#. It can hold any data type. | `object obj = 42;`                                              |
 
-        ### Arrays
+    ### Arrays
 
-      | **Type**    | **Description**                                                   | **Example**                                                      |
+  | **Type**    | **Description**                                                   | **Example**                                                      |
       |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
       | `array`     | A collection of elements of the same type.                        | `int[] numbers = {1, 2, 3, 4};`                                  |
 
-      ### Class
+  ### Class
 
-      | **Type**    | **Description**                                                   | **Example**                                                      |
+  | **Type**    | **Description**                                                   | **Example**                                                      |
       |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
       | `class`     | A user-defined reference type. Example:                           | ```csharp                                                        |
       |              |                                                                   |   class Person {                                                 |   
