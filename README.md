@@ -13,7 +13,7 @@ This repo contains learning and development of Full Stack journey.
   |7|Html|
   |8|Css|
   
-## **Prjects**
+## **Projects**
   |S.N|Project Name|Discription|
   |---|------------|-----------|
   ||||
