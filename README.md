@@ -17,7 +17,7 @@ This repo contains learning and development of Full Stack journey.
   ## **Topics**
 ## 1. Introduction to C#
 - What is C#?
--   sdsncjsnvkdvdvndkvdkdkvndkjvdkvnd
+    sdsncjsnvkdvdvndkvdkdkvndkjvdkvnd
 - History and Evolution of C#
 - Features of C#
 - Installing .NET SDK & Setting Up Development Environment
