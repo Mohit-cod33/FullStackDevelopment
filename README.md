@@ -65,7 +65,7 @@ This repo contains learning and development of Full Stack journey.
         Select “.NET Desktop Development” during installation.
         Create a new C# Console Application.
 - ##**Writing & Running a Simple C# Program**
-      <p>```csharp
+      <p> ```csharp
         using System;
         class Program
         {
@@ -73,7 +73,7 @@ This repo contains learning and development of Full Stack journey.
           {
             Console.WriteLine("Hello, World!");
           }
-        }```
+        }
       </p>
 
 ---
