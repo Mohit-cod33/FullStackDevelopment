@@ -157,7 +157,7 @@ This repo contains learning and development of Full Stack journey.
   |              |                                                                   |   class Person {                                                 |   
   |             |                                                                    |      public string Name { get; set; }                            |    
   |             |                                                                    |    public int Age { get; set; }                                  |   
-                                                                                      |   }```                                                            |     
+  |             |                                                                      |   }```                                                            |     
                                                                                                                                                   
 
     ### Delegate
