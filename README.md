@@ -73,7 +73,7 @@ This repo contains learning and development of Full Stack journey.
           {
             Console.WriteLine("Hello, World!");
           }
-        }
+        }```
       </p>
 
 ---
