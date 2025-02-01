@@ -86,16 +86,16 @@ This repo contains learning and development of Full Stack journey.
      Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created.
       ### **Numeric Types**
 
-   | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
-       |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|
-   | `byte`      | 8-bit unsigned integer                                            | 0 to 255                                                     | `byte b = 255;`                                                 |
-   | `sbyte`     | 8-bit signed integer                                              | -128 to 127                                                   | `sbyte sb = -100;`                                               |
-   | `short`     | 16-bit signed integer                                             | -32,768 to 32,767                                             | `short s = 32767;`                                               |
-   | `ushort`    | 16-bit unsigned integer                                           | 0 to 65,535                                                   | `ushort us = 50000;`                                             |
-   | `int`       | 32-bit signed integer                                             | -2,147,483,648 to 2,147,483,647                               | `int i = 2147483647;`                                            |
-   | `uint`      | 32-bit unsigned integer                                           | 0 to 4,294,967,295                                            | `uint ui = 4000000000;`                                          |
-   | `long`      | 64-bit signed integer                                             | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807       | `long l = 9223372036854775807L;`                                 |
-   | `ulong`     | 64-bit unsigned integer                                           | 0 to 18,446,744,073,709,551,615                              | `ulong ul = 18446744073709551615UL;`                             |
+  | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
+  |-------------|-------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|
+  | `byte`      | 8-bit unsigned integer                                            | 0 to 255                                                     | `byte b = 255;`                                                 |
+  | `sbyte`     | 8-bit signed integer                                              | -128 to 127                                                   | `sbyte sb = -100;`                                               |
+  | `short`     | 16-bit signed integer                                             | -32,768 to 32,767                                             | `short s = 32767;`                                               |
+  | `ushort`    | 16-bit unsigned integer                                           | 0 to 65,535                                                   | `ushort us = 50000;`                                             |
+  | `int`       | 32-bit signed integer                                             | -2,147,483,648 to 2,147,483,647                               | `int i = 2147483647;`                                            |
+  | `uint`      | 32-bit unsigned integer                                           | 0 to 4,294,967,295                                            | `uint ui = 4000000000;`                                          |
+  | `long`      | 64-bit signed integer                                             | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807       | `long l = 9223372036854775807L;`                                 |
+  | `ulong`     | 64-bit unsigned integer                                           | 0 to 18,446,744,073,709,551,615                              | `ulong ul = 18446744073709551615UL;`                             |
    | `float`     | 32-bit single-precision floating-point number                     | ±1.5 × 10^−45 to ±3.4 × 10^38 (7 digits of precision)        | `float f = 3.14f;`                                               |
    | `double`    | 64-bit double-precision floating-point number                     | ±5.0 × 10^−324 to ±1.7 × 10^308 (15–16 digits of precision)  | `double d = 3.14159265358979;`                                    |
    | `decimal`   | 128-bit precise decimal value for financial calculations          | ±1.0 × 10^−28 to ±7.9 × 10^28 (28-29 digits of precision)    | `decimal dec = 19.99m;`                                           |
