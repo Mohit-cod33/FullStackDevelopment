@@ -134,20 +134,20 @@ This repo contains learning and development of Full Stack journey.
   ### String
 
   | **Type**    | **Description**                                                   | **Example**                                                      |
-      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-      | `string`    | Represents a sequence of Unicode characters (immutable).         | `string name = "John Doe";`                                      |
+  |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+  | `string`    | Represents a sequence of Unicode characters (immutable).         | `string name = "John Doe";`                                      |
 
   ### Object
 
   | **Type**    | **Description**                                                   | **Example**                                                      |
-      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-      | `object`    | The base type of all data types in C#. It can hold any data type. | `object obj = 42;`                                              |
+  |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+  | `object`    | The base type of all data types in C#. It can hold any data type. | `object obj = 42;`                                              |
 
     ### Arrays
 
   | **Type**    | **Description**                                                   | **Example**                                                      |
-      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-      | `array`     | A collection of elements of the same type.                        | `int[] numbers = {1, 2, 3, 4};`                                  |
+  |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+  | `array`     | A collection of elements of the same type.                        | `int[] numbers = {1, 2, 3, 4};`                                  |
 
   ### Class
 
