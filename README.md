@@ -16,12 +16,12 @@ This repo contains learning and development of Full Stack journey.
 # **C#**
   ## **Topics**
 ## 1. Introduction to C#
-- ## **What is C#?**
+- ## **<u>What is C#?</u>**
    <p>
      C# (pronounced "C-Sharp") is a modern, object-oriented programming language developed by Microsoft as part of its .NET initiative. It was first released in 2002 and has since evolved into a versatile and powerful language used for a wide range of applications.
 C# is designed to be simple, modern, and easy to learn, especially for developers familiar with languages like C, C++, or Java. It is a strongly-typed language, which means that data types are checked at compile time, reducing errors and improving code reliability.
 
-### **Key Features of C#**
+### <u>**Key Features of C#**</u>
 - **Object-Oriented:** C# is a fully object-oriented language, allowing developers to create reusable code and build complex applications with ease.
 - **Cross-Platform:** C# can be used to develop applications for Windows, Linux, macOS, and mobile platforms like iOS and Android using frameworks such as Xamarin and .NET MAUI.
 - **Large Standard Library:** C# has a vast standard library that includes a wide range of pre-built classes and functions, making it easy to perform common - tasks without writing a lot of custom code.
