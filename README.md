@@ -46,7 +46,8 @@ This repo contains learning and development of Full Stack journey.
     - **Machine Learning:** C# can be used for developing machine learning applications using frameworks such as ML.NET.
     - **IoT Applications:** C# can be used to develop IoT applications using .NET IoT libraries.
    </p>
-- ## **History and Evolution of C#** Visit: (https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- ## **History and Evolution of C#:**
+     Visit: (https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - ## **Installing .NET SDK & Setting Up Development Environment**
     To start programming in C#, install the .NET SDK:
     - **Installing .NET SDK**
