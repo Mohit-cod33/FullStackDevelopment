@@ -64,7 +64,7 @@ This repo contains learning and development of Full Stack journey.
         Install Visual Studio Community Edition.
         Select “.NET Desktop Development” during installation.
         Create a new C# Console Application.
-- ##**Writing & Running a Simple C# Program**
+- ## **Writing & Running a Simple C# Program**
        ```csharp
         using System;
         class Program
@@ -73,7 +73,7 @@ This repo contains learning and development of Full Stack journey.
           {
             Console.WriteLine("Hello, World!");
           }
-        }```
+        }
       
 
 ---
