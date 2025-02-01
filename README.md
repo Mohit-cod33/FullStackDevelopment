@@ -152,11 +152,11 @@ This repo contains learning and development of Full Stack journey.
   ### Class
 
   | **Type**    | **Description**                                                   | **Example**                                                      |
-      |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-      | `class`     | A user-defined reference type. Example:                           | ```csharp                                                        |
-      |              |                                                                   |   class Person {                                                 |   
-      |             |                                                                    |      public string Name { get; set; }                            |    
-      |             |                                                                    |    public int Age { get; set; }                                  |   
+  |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+  | `class`     | A user-defined reference type. Example:                           | ```csharp                                                        |
+  |              |                                                                   |   class Person {                                                 |   
+  |             |                                                                    |      public string Name { get; set; }                            |    
+  |             |                                                                    |    public int Age { get; set; }                                  |   
                                                                                       |   }```                                                            |     
                                                                                                                                                   
 
