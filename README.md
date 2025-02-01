@@ -50,20 +50,20 @@ This repo contains learning and development of Full Stack journey.
 - Features of C#
 - ## **Installing .NET SDK & Setting Up Development Environment**
     To start programming in C#, install the .NET SDK:
-    - Installing .NET SDK
-      Download the .NET SDK from (https://dotnet.microsoft.com/en-us/download)
-      Install it by following the setup instructions.
-      Verify Installation: ```dotnet --version```
+    - **Installing .NET SDK**
+      - Download the .NET SDK from (https://dotnet.microsoft.com/en-us/download)
+      - Install it by following the setup instructions.
+      - Verify Installation: ```dotnet --version```
 
-    - Setting Up Visual Studio Code for C#
-        Install Visual Studio Code from code.visualstudio.com.
-        Install the C# Extension from the Extensions Marketplace.
-        Open VS Code and create a new .cs file.
+    - **Setting Up Visual Studio Code for C#**
+        - Install Visual Studio Code from code.visualstudio.com.
+        - Install the C# Extension from the Extensions Marketplace.
+        - Open VS Code and create a new .cs file.
 
-    - Setting Up Visual Studio for C#
-        Install Visual Studio Community Edition.
-        Select “.NET Desktop Development” during installation.
-        Create a new C# Console Application.
+    - **Setting Up Visual Studio for C#**
+        - Install Visual Studio Community Edition.
+        - Select “.NET Desktop Development” during installation.
+        - Create a new C# Console Application.
 - ## **Writing & Running a Simple C# Program**
        ```csharp
         using System;
