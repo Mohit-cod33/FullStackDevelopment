@@ -18,24 +18,24 @@ This repo contains learning and development of Full Stack journey.
 ## 1. Introduction to C#
 - ## **<u>What is C#?</u>**
    <p>
-     C# (pronounced "C-Sharp") is a modern, object-oriented programming language developed by Microsoft as part of its .NET initiative. It was first released in 2002 and has since evolved into a versatile and powerful language used for a wide range of applications.
-C# is designed to be simple, modern, and easy to learn, especially for developers familiar with languages like C, C++, or Java. It is a strongly-typed language, which means that data types are checked at compile time, reducing errors and improving code reliability.
+     C# (pronounced "C-Sharp") is a modern, object-oriented programming language developed by Microsoft as part of its .NET initiative. It was first released in        2002 and has since evolved into a versatile and powerful language used for a wide range of applications.
+      C# is designed to be simple, modern, and easy to learn, especially for developers familiar with languages like C, C++, or Java. It is a strongly-typed            language, which means that data types are checked at compile time, reducing errors and improving code reliability.
 
-### <u>**Key Features of C#**</u>
-- **Object-Oriented:** C# is a fully object-oriented language, allowing developers to create reusable code and build complex applications with ease.
-- **Cross-Platform:** C# can be used to develop applications for Windows, Linux, macOS, and mobile platforms like iOS and Android using frameworks such as Xamarin and .NET MAUI.
-- **Large Standard Library:** C# has a vast standard library that includes a wide range of pre-built classes and functions, making it easy to perform common - tasks without writing a lot of custom code.
-- **Integration with Microsoft Technologies:** C# integrates well with other Microsoft technologies, such as .NET, Azure, and Visual Studio, providing a seamless development experience.
-- **Community Support:** C# has a large and active community, which means there are plenty of resources, tools, and libraries available to help developers.
+    ### <u>**Key Features of C#**</u>
+    - **Object-Oriented:** C# is a fully object-oriented language, allowing developers to create reusable code and build complex applications with ease.
+    - **Cross-Platform:** C# can be used to develop applications for Windows, Linux, macOS, and mobile platforms like iOS and Android using frameworks such as           Xamarin and .NET MAUI.
+    - **Large Standard Library:** C# has a vast standard library that includes a wide range of pre-built classes and functions, making it easy to perform common          tasks without writing a lot of custom code.
+    - **Integration with Microsoft Technologies:** C# integrates well with other Microsoft technologies, such as .NET, Azure, and Visual Studio, providing a             seamless development experience.
+    - **Community Support:** C# has a large and active community, which means there are plenty of resources, tools, and libraries available to help developers.
 
-### **Applications of C#**
-C# is used in various domains, including:
-- **Desktop Applications:** C# is widely used for developing desktop applications, especially those targeting Windows platforms.
-- **Web Applications:** C# is a popular choice for building web applications and web services using frameworks like ASP.NET.
-- **Mobile Applications:** C# can be used to develop cross-platform mobile applications using Xamarin and .NET MAUI.
-- **Game Development:** C# is extensively used in game development, particularly with the Unity game engine.
-- **Machine Learning:** C# can be used for developing machine learning applications using frameworks such as ML.NET.
-- **IoT Applications:** C# can be used to develop IoT applications using .NET IoT libraries.
+    ### **Applications of C#**
+    C# is used in various domains, including:
+    - **Desktop Applications:** C# is widely used for developing desktop applications, especially those targeting Windows platforms.
+    - **Web Applications:** C# is a popular choice for building web applications and web services using frameworks like ASP.NET.
+    - **Mobile Applications:** C# can be used to develop cross-platform mobile applications using Xamarin and .NET MAUI.
+    - **Game Development:** C# is extensively used in game development, particularly with the Unity game engine.
+    - **Machine Learning:** C# can be used for developing machine learning applications using frameworks such as ML.NET.
+    - **IoT Applications:** C# can be used to develop IoT applications using .NET IoT libraries.
    </p>
 - History and Evolution of C#
 - Features of C#
