@@ -81,8 +81,8 @@ This repo contains learning and development of Full Stack journey.
 ## 2. Basics of C#
 - ## **Variables and Data Types**
      **C# Data Types:**
-          C# provides various data types that can be categorized into **Value Types** and **Reference Types**.
-        ### **1. Value Types:**
+      C# provides various data types that can be categorized into **Value Types** and **Reference Types**.
+      ### 1. Value Types:**
           Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created.
 
     | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
@@ -153,11 +153,11 @@ This repo contains learning and development of Full Stack journey.
     | **Type**    | **Description**                                                   | **Example**                                                      |
     |-------------|-------------------------------------------------------------------|------------------------------------------------------------------|
     | `class`     | A user-defined reference type. Example:                           | ```csharp                                                      |
-                                                                                    | class Person {                                                  |
-                                                                                    |     public string Name { get; set; }                             |
-                                                                                    |     public int Age { get; set; }                                  |
-                                                                                    | }                                                                |
-                                                                                    |                                                              |
+                                                                                         class Person {                                                  
+                                                                                           public string Name { get; set; }                             
+                                                                                           public int Age { get; set; }                                  
+                                                                                         }                                                                
+                                                                                                                                                  
 
     ### Delegate
 
