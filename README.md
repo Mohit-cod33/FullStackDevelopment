@@ -90,7 +90,7 @@ This repo contains learning and development of Full Stack journey.
     ### **C# Data Types:**
   C# provides various data types that can be categorized into **Value Types** and **Reference Types**.
   ## 1. **Value Types:**
-     Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created. Numeric, boolean, Character, Enum all are the Value type Data.
+     Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created. Numeric, boolean, Character, Enum and Struct all are the Value type Data.
   ### **Numeric Types**
 
   | **Type**    | **Description**                                                   | **Range**                                                    | **Example**                                                      |
