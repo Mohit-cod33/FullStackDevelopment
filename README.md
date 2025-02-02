@@ -80,14 +80,17 @@ This repo contains learning and development of Full Stack journey.
 
 ## 2. Basics of C#
 - ## **Variables and Data Types**
-    **Variables:** Variables are used to store data that can be manipulated by the program. In C#, you declare a variable by specifying its type followed by             its name. For example:
-                                ```int age = 25;
-                                string name = "John";
-                                bool isStudent = true;
-  ---
-    **C# Data Types:**
+    ### **Variables:**
+  Variables are used to store data that can be manipulated by the program. In C#, you declare a variable by specifying its type followed by    its name. For example:
+  ```csharp
+          int age = 25;
+          string name = "John";
+          bool isStudent = true;
+      
+--                                 
+    ###**C# Data Types:**
       C# provides various data types that can be categorized into **Value Types** and **Reference Types**.
-   ## 1. **Value Types:**
+    ## 1. **Value Types:**
      Value types hold the actual data. When a value type is assigned to another variable, a copy of the data is created.
       ### **Numeric Types**
 
